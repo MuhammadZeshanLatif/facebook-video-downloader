@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import i18n from './i18n/i18n';
 import Navbar from './components/Navbar';
@@ -72,8 +72,8 @@ function AppContent() {
 
   return (
     <Routes>
-      {/* Redirect root to English */}
-      <Route path="/" element={<Navigate to="/en/" replace />} />
+      {/* Root route without client-side redirect to reduce CLS */}
+      <Route path="/" element={<Home />} />
       
       {/* Language routes */}
       <Route path="/:lang/">
