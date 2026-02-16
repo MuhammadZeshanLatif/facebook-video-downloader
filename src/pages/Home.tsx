@@ -6,7 +6,11 @@ import { Link } from 'react-router-dom';
 export default function Home() {
   const { t, i18n } = useTranslation();
   const lang = i18n.language;
-  const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3000';
+  const DEFAULT_PROD_API_BASE_URL = 'https://facebookvideo-downloader-backend.vercel.app';
+  const isLocalFrontend = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+  const API_BASE_URL =
+    import.meta.env.VITE_API_BASE_URL ||
+    (isLocalFrontend ? 'http://localhost:3000' : DEFAULT_PROD_API_BASE_URL);
   const resultRef = useRef<HTMLDivElement | null>(null);
   const videoRef = useRef<HTMLVideoElement | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
