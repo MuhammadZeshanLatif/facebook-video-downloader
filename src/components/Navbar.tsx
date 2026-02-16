@@ -57,10 +57,10 @@ export default function Navbar() {
             <li className="nav-item">
               <Link className="nav-link" to={`/${lang}/contact`}>{t('nav.contact')}</Link>
             </li>
-            <li className="nav-item ms-2 me-2">
+            <li className="nav-item ms-2 me-2" style={{ display: 'none' }}>
               <LanguageSwitcher />
             </li>
-            <li className="nav-item">
+            <li className="nav-item" style={{ display: 'none' }}>
               <Link className="btn btn-cta" to={`/${lang}/`}>
                 <i className="bi bi-download me-2"></i>{t('nav.downloadNow')}
               </Link>
