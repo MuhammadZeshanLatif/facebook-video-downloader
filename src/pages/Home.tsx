@@ -489,7 +489,6 @@ export default function Home() {
         </section>
       )}
 
-      <div className="defer-sections">
       {/* Main Description Section */}
       <section className="py-5">
         <div className="container">
@@ -954,7 +953,6 @@ export default function Home() {
           <DownloadForm onSearch={handleSearch} onResult={handleResult} />
         </div>
       </section>
-      </div>
 
       {mediaItems.length > 0 && (
         <section className="py-5 bg-light">
@@ -969,7 +967,6 @@ export default function Home() {
                         src={item.thumbnail}
                         className="card-img-top"
                         alt="Media thumbnail"
-                        loading="lazy"
                         style={{ objectFit: 'cover', maxHeight: '200px' }}
                       />
                     )}

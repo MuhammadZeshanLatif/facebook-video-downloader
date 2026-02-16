@@ -163,12 +163,6 @@ body {
   box-shadow: var(--shadow-lg);
 }
 
-/* Defer heavy below-the-fold rendering for better FCP/LCP */
-.defer-sections {
-  content-visibility: auto;
-  contain-intrinsic-size: 1px 4500px;
-}
-
 .download-form input {
   border-radius: 0.5rem;
   border: 2px solid var(--border-color);
