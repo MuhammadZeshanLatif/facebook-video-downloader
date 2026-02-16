@@ -1,0 +1,960 @@
+{
+  "en": {
+    "nav": {
+      "home": "Homepage (HD & 4K)",
+      "mp3Converter": "MP3 Converter",
+      "reels": "Reels",
+      "stories": "Stories",
+      "privateVideos": "Private Videos",
+      "postBlogs": "POST / Blogs",
+      "guide": "Guide (Screenshots)",
+      "privacyPolicy": "Privacy Policy",
+      "termsConditions": "Terms and conditions",
+      "dmca": "DMCA",
+      "contactUs": "Contact us",
+      "blog": "Blog",
+      "privateDownloader": "Private Downloader",
+      "howToDownload": "How to Download",
+      "about": "About",
+      "faq": "FAQ",
+      "contact": "Contact",
+      "downloadNow": "Download Now"
+    },
+    "home": {
+      "title": "Free Facebook Video Downloader",
+      "heroHeading": "Free Facebook Video Downloader",
+      "heroSubheading": "Download Facebook videos, reels, and stories in high-quality format with our free online Facebook video downloader.",
+      "pasteUrl": "Paste Facebook video URL...",
+      "download": "Download",
+      "processing": "Processing...",
+      "success": "Video found. Choose a format to download.",
+      "invalidUrl": "Please enter a valid Facebook video URL.",
+      "mainDescription": "Facebook Video Downloader - Without Watermark\nEver found a Facebook video you wanted to save, but there was no download button? Maybe it was a useful tutorial, a reel you liked, or important social media content you didn't want to lose. Streaming it again and again wastes time, and sometimes the video disappears from posts or stories.\nA Facebook video downloader download video without watermark solves that problem. It's a simple online solution that lets you copy the video link from the address bar, paste the URL into the input field, choose a format like MP4, MP3, AAC, or 3GP, and download the file in HD or 4K completely clean and without watermarks.\nWithin seconds, the video is saved directly to your device for offline viewing. No extra software, no complicated steps, just a fast, secure, and watermark-free download process.",
+      "howToDownload": "How to Download Facebook Videos",
+      "howToText": "Downloading Facebook videos online is simple and takes only a few seconds. Follow this easy process:",
+      "step1": "Step 1: Copy the Facebook Video Link",
+      "step1Desc": "Open Facebook and find the video you want to download. Copy the video URL from the address bar or tap the three dots on the post and select 'Copy link.'",
+      "step2": "Step 2: Paste the URL into the Input Field",
+      "step2Desc": "Go to the Facebook video downloader tool and paste the link into the input field. The tool will automatically detect the video file.",
+      "step3": "Step 3: Select Format & Quality",
+      "step3Desc": "Choose your preferred format MP4 for video, MP3 or AAC for audio, or 3GP for smaller files. Then select the quality option such as HD, 1080p, or 4K.",
+      "step4": "Step 4: Click Download",
+      "step4Desc": "Click the download button and save the file directly to your device. Your video is now ready for offline viewing anytime.",
+      "downloadAllTypes": "Download All Types of Facebook Media",
+      "downloadAllTypesText": "Our Facebook video downloader is built to handle more than just standard videos. You can download different types of Facebook media quickly and in high quality.",
+      "reelsDownloader": "Facebook Reels Downloader",
+      "reelsDesc": "Found a reel you want to keep? Download Facebook reels in HD or 4K and save them directly to your device. Just copy the reel link, paste the URL into the tool, choose your format, and download without watermarks.",
+      "storiesDownloader": "Download Facebook Stories",
+      "storiesDesc": "Stories disappear after 24 hours. If you want to save a Facebook story before it expires, copy the video link and use the downloader to store the file for offline viewing.",
+      "postsDownloader": "Download Videos from Facebook Posts",
+      "postsDesc": "Many Facebook posts include useful or entertaining videos. Copy the video URL from the post, paste it into the input field, select your format (MP4, MP3, or more), and download in seconds.",
+      "privateDownloader": "Private Facebook Videos",
+      "privateDesc": "Some videos are shared privately within groups or limited audiences. Where permitted, you can download private Facebook videos by using the correct video link through our secure tool.",
+      "formatQuality": "Download Facebook Videos in Any Format & Quality",
+      "formatQualityText": "Not everyone needs the same format or resolution. That's why our Facebook video downloader gives you flexible options for both video and audio downloads.",
+      "videoFormats": "Video Formats",
+      "mp4Format": "MP4 – The most popular format for high-quality playback. Works smoothly on almost all devices and media players.",
+      "format3gp": "3GP – A smaller, lightweight format ideal for older mobile devices or saving storage space.",
+      "audioFormats": "Audio Formats",
+      "mp3Format": "MP3 – Perfect if you only need the sound from a Facebook video, such as music, interviews, or podcasts.",
+      "aacFormat": "AAC – Offers clear audio with efficient compression and smaller file size.",
+      "resolutionOptions": "Resolution Options",
+      "resolutionOptionsText": "Choose the quality that fits your needs: HD for clear playback, 1080p for full high-definition video, 4K for ultra-sharp detail and maximum quality",
+      "keyFeatures": "Key Features of Our Facebook Video Downloader",
+      "keyFeaturesText": "Our Facebook video downloader is built to be simple, fast, and reliable. Everything is designed around ease of use and high-quality downloads.",
+      "userFriendly": "User-Friendly Interface",
+      "userFriendlyDesc": "The tool has a clean and simple interface. Just paste the video URL, choose your format, and click download. No confusion. No extra steps.",
+      "webBased": "Web-Based App – No Installation Required",
+      "webBasedDesc": "This is a fully web-based app, so you don't need to install any software. It works directly in your browser, whether you're on desktop or mobile.",
+      "aiQuality": "AI-Enhanced Quality Optimization",
+      "aiQualityDesc": "Our system uses smart AI-based detection to identify the best available video quality. It helps ensure you get clear HD, 1080p, or 4K downloads whenever available.",
+      "videoPreview": "Built-In Video Player Preview",
+      "videoPreviewDesc": "Before you download, you can preview the Facebook video using the built-in player. This helps confirm you selected the right file.",
+      "crossPlatform": "Cross-Platform Support",
+      "crossPlatformDesc": "The downloader works smoothly on Android, iOS, and desktop devices. It supports modern browsers and delivers a consistent experience across platforms.",
+      "noWatermarks": "No Watermarks",
+      "noWatermarksDesc": "Your downloaded video file stays clean. No added watermarks or branding.",
+      "fastSecure": "Fast & Secure Download Process",
+      "fastSecureDesc": "The entire process is secure and private. Links are processed instantly, and files are delivered quickly to your device without unnecessary delays. They are processed temporarily and deleted after download to protect user privacy.",
+      "allDevices": "Works on All Devices & Browsers",
+      "allDevicesDesc": "Our Facebook video downloader is fully web-based, so it works smoothly across devices and browsers without installing any extra software.",
+      "android": "Android Smartphones",
+      "androidDesc": "Download Facebook videos directly to your Android device using your preferred browser. Just paste the video URL and save the file instantly.",
+      "iphone": "iPhone (iOS)",
+      "iphoneDesc": "Use the tool on your iPhone or iPad through Safari or other supported browsers. Choose your format and download for offline viewing.",
+      "desktop": "Desktop (Windows & Mac)",
+      "desktopDesc": "Whether you're on Windows or Mac, you can download HD or 4K Facebook videos straight to your computer in MP4, MP3, or other formats.",
+      "chrome": "Chrome Web Browser",
+      "chromeDesc": "The tool runs seamlessly in Chrome, offering a fast and smooth download process.",
+      "safari": "Safari",
+      "safariDesc": "Fully compatible with Safari for secure and simple downloads on both mobile and desktop.",
+      "googleDrive": "You can also save your downloaded files to Google Drive if you prefer cloud storage for easier access across devices.",
+      "whyChooseUs": "Why Choose Us?",
+      "whyChooseUsText": "There are many tools online, but not all of them are simple, safe, and reliable. Here's why users prefer our Facebook video downloader:",
+      "freeTool": "Free Online Tool",
+      "freeToolDesc": "You can download Facebook videos, reels, and stories without paying. It's a completely free tool with no complicated setup.",
+      "noSoftware": "No Additional Software Required",
+      "noSoftwareDesc": "Everything works in your browser. No apps, no extensions, and no extra software to install.",
+      "highSpeed": "High-Speed Downloads",
+      "highSpeedDesc": "Once you paste the video URL and select your format, the download process starts instantly. Fast, smooth, and hassle-free.",
+      "securePrivate": "Secure & Private",
+      "securePrivateDesc": "Your links are processed securely. We don't store your video files or personal data. The entire process stays private.",
+      "noPricing": "No Hidden Pricing Plan",
+      "noPricingDesc": "There's no surprise pricing, locked features, or hidden plan upgrades. What you see is what you get.",
+      "contentCreators": "Optimized for Social Media Content Creators",
+      "contentCreatorsDesc": "Whether you're a content creator, social media manager, or just saving favorite videos, this tool is designed to make downloads quick and easy.",
+      "faq1": "Can I download Facebook videos in 4K or HD?",
+      "faq1Answer": "Yes, if the original Facebook video supports it, you can choose 4K, 1080p, or HD before you click download. The available quality depends on the source video.",
+      "faq2": "Can I convert a Facebook video to MP3?",
+      "faq2Answer": "Yes. Select the MP3 format to extract audio from a Facebook video. The tool will convert the media file and let you download the MP3 directly to your device.",
+      "faq3": "Does it work for Facebook reels and stories?",
+      "faq3Answer": "Yes. You can download Facebook reels, stories, and regular posts using the same process. Just copy the video URL, paste it into the input field, and choose your format.",
+      "faq4": "Can I download private Facebook videos?",
+      "faq4Answer": "You can download private Facebook videos only if you have permission to view them. The video must be accessible to your account for the link to work.",
+      "faq5": "Does the downloader add watermarks?",
+      "faq5Answer": "No. The tool does not add watermarks to your downloaded file. You receive the video in its original format and quality.",
+      "faq6": "Is it safe to use on mobile devices?",
+      "faq6Answer": "Yes. This is a secure, web-based tool that works on Android and iOS mobile devices through your browser. No additional app or software installation is required.",
+      "disclaimer": "Disclaimer",
+      "disclaimerText": "We do not host or store any videos on our servers. All media files are hosted on Facebook's CDNs and remain the property of their respective owners.\nThis website is an independent social media tool and is not affiliated with Facebook™ or Meta Platforms, Inc. 'Facebook' is a trademark of Meta, used for identification purposes only.\nUsers are responsible for ensuring they have permission to download and use any content in accordance with applicable laws and Facebook's Terms of Service."
+    },
+    "about": {
+      "heading": "About FBVideo Pro",
+      "mission": "Our Mission",
+      "missionDesc": "Make saving Facebook videos simple, fast, and safe for everyone.",
+      "whyWeBuilt": "Why We Built This",
+      "whyDesc": "We created FBVideo Pro to remove the friction from saving content you have permission to keep.",
+      "technology": "Our Technology",
+      "techDesc": "We use secure, optimized processing to deliver downloads quickly without storing your files.",
+      "security": "Security First",
+      "securityDesc": "Your privacy matters. We do not track or store your downloads.",
+      "transparency": "Transparency",
+      "transparencyDesc": "Clear policies and responsible use are central to our product.",
+      "ethical": "Ethical Use",
+      "ethicalDesc": "Only download content you own or have permission to use.",
+      "values": "Our Values",
+      "value1": "User privacy and safety",
+      "value2": "Simple, reliable experience",
+      "value3": "Respect for content owners",
+      "value4": "Fast and stable performance",
+      "value5": "Continuous improvement"
+    },
+    "blog": {
+      "heading": "FBVideo Pro Blog",
+      "subheading": "Tips, guides, and updates about downloading Facebook content.",
+      "readMore": "Read more",
+      "article1": "How to Download Facebook Videos in HD",
+      "article1Desc": "Step-by-step guidance to get the best quality downloads.",
+      "article2": "MP4 vs MP3: Which Format Should You Choose?",
+      "article2Desc": "A quick comparison to help you pick the right format.",
+      "article3": "Downloading Facebook Reels Safely",
+      "article3Desc": "Best practices for saving reels without hassle.",
+      "article4": "Top Reasons Downloads Fail (And Fixes)",
+      "article4Desc": "Common issues and how to resolve them fast.",
+      "article5": "Private Videos: What You Need to Know",
+      "article5Desc": "Permissions, access, and responsible downloading.",
+      "article6": "Saving Videos on Mobile Devices",
+      "article6Desc": "Tips for Android and iPhone users."
+    },
+    "howToDownload": {
+      "heading": "How to Download Facebook Videos",
+      "subheading": "Follow these simple steps to download videos safely.",
+      "desktopGuide": "Desktop Guide",
+      "step1": "Copy the Facebook video link",
+      "step1Desc": "Find the video on Facebook and copy its URL.",
+      "step2": "Paste the link into the input box",
+      "step2Desc": "Paste the URL into the downloader on this page.",
+      "step3": "Choose format and quality",
+      "step3Desc": "Select MP4 or MP3 and the quality you prefer.",
+      "step4": "Click download",
+      "step4Desc": "Start the download and save to your device.",
+      "step5": "Enjoy offline playback",
+      "step5Desc": "Open the file anytime without internet.",
+      "mobileGuide": "Mobile Guide",
+      "mobileSteps": "Quick steps",
+      "mobileStep1": "Copy the video link in the Facebook app or browser.",
+      "mobileStep2": "Paste it into the downloader.",
+      "mobileStep3": "Pick a format and quality.",
+      "mobileStep4": "Tap download and save the file.",
+      "mobileStep5": "Watch or listen offline anytime.",
+      "troubleTitle": "Troubleshooting",
+      "issue1": "Invalid link",
+      "issue1Desc": "Make sure the URL is a valid Facebook video link.",
+      "issue2": "Video not available",
+      "issue2Desc": "The video may be private or removed.",
+      "issue3": "Download failed",
+      "issue3Desc": "Try a different quality or refresh the page."
+    },
+    "privateDownloader": {
+      "heading": "Private Facebook Video Downloader",
+      "subheading": "Download private videos only when you have permission.",
+      "method": "Step-by-Step Method",
+      "step1": "Open the private video",
+      "step1Desc": "Log in to Facebook and open the private video you can access.",
+      "step2": "Copy the video link",
+      "step2Desc": "Copy the URL from the address bar or share menu.",
+      "step3": "Paste the link into the downloader",
+      "step3Desc": "Use the input field to submit the link.",
+      "step4": "Select format and download",
+      "step4Desc": "Choose MP4 or MP3 and save the file.",
+      "warning": "Important",
+      "warningText": "Only download videos you are authorized to access.",
+      "security": "Security & Privacy",
+      "securityDesc": "We do not store your links or downloaded files.",
+      "support": "Supported Private Sources",
+      "friendOnly": "Friends-only videos",
+      "customAudience": "Custom audience posts",
+      "storyDownloads": "Private stories you can view",
+      "archiveVideos": "Archived content you own"
+    },
+    "footer": {
+      "quickLinks": "Quick Links",
+      "legalPages": "Legal",
+      "privacyPolicy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "dmca": "DMCA",
+      "contact": "Contact",
+      "copyright": "FBVideo Pro. All rights reserved.",
+      "secure": "Secure Downloads",
+      "noDara": "No data stored"
+    },
+    "contact": {
+      "email_label": "support@fbvideopro.com",
+      "address": "123 Tech Street, San Francisco, CA 94105"
+    }
+  },
+  "es": {
+    "nav": {
+      "home": "Página de inicio (HD y 4K)",
+      "mp3Converter": "Conversor MP3",
+      "reels": "Reels",
+      "stories": "Historias",
+      "privateVideos": "Videos Privados",
+      "postBlogs": "POSTS / Blogs",
+      "guide": "Guía (Capturas de pantalla)",
+      "privacyPolicy": "Política de Privacidad",
+      "termsConditions": "Términos y Condiciones",
+      "dmca": "DMCA",
+      "contactUs": "Contáctanos",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Descargador Gratuito de Videos de Facebook",
+      "heroHeading": "Descargador Gratuito de Videos de Facebook",
+      "heroSubheading": "Descarga videos, reels e historias de Facebook en formato de alta calidad con nuestro descargador de videos de Facebook en línea gratuito.",
+      "mainDescription": "Descargador de Videos de Facebook - Sin Marca de Agua\n¿Alguna vez encontraste un video de Facebook que querías guardar, pero no había un botón de descarga? Quizás era un tutorial útil, un reel que te gustó, o contenido importante de redes sociales que no querías perder. Reproducirlo una y otra vez desperdicia tiempo, y a veces el video desaparece de los posts o historias.\nUn descargador de videos de Facebook que descarga videos sin marca de agua resuelve ese problema. Es una solución en línea simple que te permite copiar el enlace del video de la barra de direcciones, pegar la URL en el campo de entrada, elegir un formato como MP4, MP3, AAC o 3GP, y descargar el archivo en HD o 4K completamente limpio y sin marcas de agua.\nEn cuestión de segundos, el video se guarda directamente en tu dispositivo para verlo sin conexión. Sin software adicional, sin pasos complicados, solo un proceso de descarga rápido, seguro y sin marcas de agua.",
+      "howToDownload": "Cómo Descargar Videos de Facebook",
+      "howToText": "Descargar videos de Facebook en línea es simple y toma solo unos pocos segundos. Sigue este proceso fácil:",
+      "step1": "Paso 1: Copia el Enlace del Video de Facebook",
+      "step1Desc": "Abre Facebook y encuentra el video que deseas descargar. Copia la URL del video de la barra de direcciones o toca los tres puntos en el post y selecciona 'Copiar enlace'.",
+      "step2": "Paso 2: Pega la URL en el Campo de Entrada",
+      "step2Desc": "Ve a la herramienta descargadora de videos de Facebook y pega el enlace en el campo de entrada. La herramienta detectará automáticamente el archivo de video.",
+      "step3": "Paso 3: Selecciona Formato y Calidad",
+      "step3Desc": "Elige tu formato preferido MP4 para video, MP3 o AAC para audio, o 3GP para archivos más pequeños. Luego selecciona la opción de calidad como HD, 1080p o 4K.",
+      "step4": "Paso 4: Haz Clic en Descargar",
+      "step4Desc": "Haz clic en el botón de descarga y guarda el archivo directamente en tu dispositivo. Tu video ahora está listo para verlo sin conexión en cualquier momento.",
+      "downloadAllTypes": "Descarga Todos los Tipos de Medios de Facebook",
+      "downloadAllTypesText": "Nuestro descargador de videos de Facebook está diseñado para manejar más que solo videos estándar. Puedes descargar diferentes tipos de medios de Facebook rápidamente y en alta calidad.",
+      "reelsDownloader": "Descargador de Reels de Facebook",
+      "reelsDesc": "¿Encontraste un reel que quieres guardar? Descarga reels de Facebook en HD o 4K y guárdalos directamente en tu dispositivo. Solo copia el enlace del reel, pega la URL en la herramienta, elige tu formato y descarga sin marcas de agua.",
+      "storiesDownloader": "Descargar Historias de Facebook",
+      "storiesDesc": "Las historias desaparecen después de 24 horas. Si deseas guardar una historia de Facebook antes de que expire, copia el enlace del video y usa el descargador para guardar el archivo para verlo sin conexión.",
+      "postsDownloader": "Descargar Videos de Posts de Facebook",
+      "postsDesc": "Muchos posts de Facebook incluyen videos útiles o entretenidos. Copia la URL del video del post, pégala en el campo de entrada, selecciona tu formato (MP4, MP3 o más) y descarga en segundos.",
+      "privateDownloader": "Videos Privados de Facebook",
+      "privateDesc": "Algunos videos se comparten de forma privada dentro de grupos o audiencias limitadas. Cuando sea permitido, puedes descargar videos privados de Facebook usando el enlace correcto a través de nuestra herramienta segura.",
+      "formatQuality": "Descarga Videos de Facebook en Cualquier Formato y Calidad",
+      "formatQualityText": "No todos necesitan el mismo formato o resolución. Por eso nuestro descargador de videos de Facebook te ofrece opciones flexibles tanto para descargas de video como de audio.",
+      "videoFormats": "Formatos de Video",
+      "mp4Format": "MP4 – El formato más popular para reproducción de alta calidad. Funciona sin problemas en casi todos los dispositivos y reproductores multimedia.",
+      "format3gp": "3GP – Un formato más pequeño y ligero ideal para dispositivos móviles antiguos o para ahorrar espacio de almacenamiento.",
+      "audioFormats": "Formatos de Audio",
+      "mp3Format": "MP3 – Perfecto si solo necesitas el sonido de un video de Facebook, como música, entrevistas o podcasts.",
+      "aacFormat": "AAC – Ofrece audio claro con compresión eficiente y tamaño de archivo más pequeño.",
+      "resolutionOptions": "Opciones de Resolución",
+      "resolutionOptionsText": "Elige la calidad que se adapte a tus necesidades: HD para reproducción clara, 1080p para video de alta definición completa, 4K para el máximo detalle y calidad",
+      "keyFeatures": "Características Clave de Nuestro Descargador de Videos de Facebook",
+      "keyFeaturesText": "Nuestro descargador de videos de Facebook está diseñado para ser simple, rápido y confiable. Todo está diseñado alrededor de la facilidad de uso y descargas de alta calidad.",
+      "userFriendly": "Interfaz Fácil de Usar",
+      "userFriendlyDesc": "La herramienta tiene una interfaz limpia y simple. Solo pega la URL del video, elige tu formato y haz clic en descargar. Sin confusión. Sin pasos adicionales.",
+      "webBased": "Aplicación Basada en Web – Sin Instalación Requerida",
+      "webBasedDesc": "Esta es una aplicación completamente basada en web, por lo que no necesitas instalar ningún software. Funciona directamente en tu navegador, ya sea en desktop o móvil.",
+      "aiQuality": "Optimización de Calidad Mejorada por IA",
+      "aiQualityDesc": "Nuestro sistema utiliza detección inteligente basada en IA para identificar la mejor calidad de video disponible. Ayuda a garantizar que obtengas descargas claras en HD, 1080p o 4K siempre que sea posible.",
+      "videoPreview": "Vista Previa del Reproductor de Video Integrado",
+      "videoPreviewDesc": "Antes de descargar, puedes obtener una vista previa del video de Facebook usando el reproductor integrado. Esto ayuda a confirmar que seleccionaste el archivo correcto.",
+      "crossPlatform": "Soporte Multiplataforma",
+      "crossPlatformDesc": "El descargador funciona sin problemas en dispositivos Android, iOS y de escritorio. Soporta navegadores modernos y ofrece una experiencia consistente en todas las plataformas.",
+      "noWatermarks": "Sin Marcas de Agua",
+      "noWatermarksDesc": "Tu archivo de video descargado permanece limpio. Sin marcas de agua o branding adicionales.",
+      "fastSecure": "Proceso de Descarga Rápido y Seguro",
+      "fastSecureDesc": "Todo el proceso es seguro y privado. Los enlaces se procesan instantáneamente y los archivos se entregan rápidamente a tu dispositivo sin retrasos innecesarios. Se procesan temporalmente y se eliminan después de la descarga para proteger la privacidad del usuario.",
+      "allDevices": "Funciona en Todos los Dispositivos y Navegadores",
+      "allDevicesDesc": "Nuestro descargador de videos de Facebook es completamente basado en web, por lo que funciona sin problemas en todos los dispositivos y navegadores sin instalar software adicional.",
+      "android": "Smartphones Android",
+      "androidDesc": "Descarga videos de Facebook directamente a tu dispositivo Android usando tu navegador preferido. Solo pega la URL del video y guarda el archivo al instante.",
+      "iphone": "iPhone (iOS)",
+      "iphoneDesc": "Usa la herramienta en tu iPhone o iPad a través de Safari u otros navegadores compatibles. Elige tu formato y descarga para verlo sin conexión.",
+      "desktop": "Escritorio (Windows y Mac)",
+      "desktopDesc": "Ya sea en Windows o Mac, puedes descargar videos de Facebook en HD o 4K directamente a tu computadora en MP4, MP3 u otros formatos.",
+      "chrome": "Navegador Web Chrome",
+      "chromeDesc": "La herramienta se ejecuta sin problemas en Chrome, ofreciendo un proceso de descarga rápido y suave.",
+      "safari": "Safari",
+      "safariDesc": "Totalmente compatible con Safari para descargas seguras y simples en móvil y escritorio.",
+      "googleDrive": "También puedes guardar tus archivos descargados en Google Drive si prefieres almacenamiento en la nube para un acceso más fácil en todos los dispositivos.",
+      "whyChooseUs": "¿Por Qué Elegirnos?",
+      "whyChooseUsText": "Hay muchas herramientas en línea, pero no todas son simples, seguras y confiables. Aquí te mostramos por qué los usuarios prefieren nuestro descargador de videos de Facebook:",
+      "freeTool": "Herramienta en Línea Gratuita",
+      "freeToolDesc": "Puedes descargar videos, reels e historias de Facebook sin pagar. Es una herramienta completamente gratuita sin configuración complicada.",
+      "noSoftware": "Sin Software Adicional Requerido",
+      "noSoftwareDesc": "Todo funciona en tu navegador. Sin aplicaciones, sin extensiones y sin software adicional para instalar.",
+      "highSpeed": "Descargas de Alta Velocidad",
+      "highSpeedDesc": "Una vez que pegas la URL del video y seleccionas tu formato, el proceso de descarga comienza al instante. Rápido, suave y sin problemas.",
+      "securePrivate": "Seguro y Privado",
+      "securePrivateDesc": "Tus enlaces se procesan de forma segura. No almacenamos tus archivos de video ni datos personales. Todo el proceso permanece privado.",
+      "noPricing": "Sin Plan de Precios Ocultos",
+      "noPricingDesc": "No hay precios sorpresas, características bloqueadas o actualizaciones de plan ocultas. Lo que ves es lo que obtienes.",
+      "contentCreators": "Optimizado para Creadores de Contenido en Redes Sociales",
+      "contentCreatorsDesc": "Ya seas un creador de contenido, gerente de redes sociales o simplemente alguien que guarda videos favoritos, esta herramienta está diseñada para hacer que las descargas sean rápidas y fáciles.",
+      "faq1": "¿Puedo descargar videos de Facebook en 4K o HD?",
+      "faq1Answer": "Sí, si el video original de Facebook lo soporta, puedes elegir 4K, 1080p o HD antes de hacer clic en descargar. La calidad disponible depende del video de origen.",
+      "faq2": "¿Puedo convertir un video de Facebook a MP3?",
+      "faq2Answer": "Sí. Selecciona el formato MP3 para extraer audio de un video de Facebook. La herramienta convertirá el archivo multimedia y te permitirá descargar el MP3 directamente a tu dispositivo.",
+      "faq3": "¿Funciona para reels e historias de Facebook?",
+      "faq3Answer": "Sí. Puedes descargar reels, historias y posts regulares de Facebook usando el mismo proceso. Solo copia la URL del video, pégala en el campo de entrada y elige tu formato.",
+      "faq4": "¿Puedo descargar videos privados de Facebook?",
+      "faq4Answer": "Puedes descargar videos privados de Facebook solo si tienes permiso para verlos. El video debe ser accesible para tu cuenta para que el enlace funcione.",
+      "faq5": "¿El descargador añade marcas de agua?",
+      "faq5Answer": "No. La herramienta no añade marcas de agua a tu archivo descargado. Recibes el video en su formato y calidad originales.",
+      "faq6": "¿Es seguro usarlo en dispositivos móviles?",
+      "faq6Answer": "Sí. Esta es una herramienta segura basada en web que funciona en dispositivos móviles Android e iOS a través de tu navegador. No se requiere instalación de aplicaciones o software adicionales.",
+      "disclaimer": "Descargo de Responsabilidad",
+      "disclaimerText": "No alojamos ni almacenamos ningún video en nuestros servidores. Todos los archivos multimedia se encuentran en los CDN de Facebook y siguen siendo propiedad de sus respectivos propietarios.\nEste sitio web es una herramienta de redes sociales independiente y no está afiliado con Facebook™ o Meta Platforms, Inc. 'Facebook' es una marca registrada de Meta, utilizada solo con fines de identificación.\nLos usuarios son responsables de asegurar que tienen permiso para descargar y usar cualquier contenido de conformidad con las leyes aplicables y los Términos de Servicio de Facebook."
+    }
+  },
+  "vi": {
+    "nav": {
+      "home": "Trang chủ (HD & 4K)",
+      "mp3Converter": "Trình Chuyển Đổi MP3",
+      "reels": "Reels",
+      "stories": "Stories",
+      "privateVideos": "Video Riêng Tư",
+      "postBlogs": "BÀI VIẾT / Blogs",
+      "guide": "Hướng dẫn (Ảnh chụp màn hình)",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsConditions": "Điều khoản và điều kiện",
+      "dmca": "DMCA",
+      "contactUs": "Liên hệ chúng tôi",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Trình Tải Xuống Video Facebook Miễn Phí",
+      "heroHeading": "Trình Tải Xuống Video Facebook Miễn Phí",
+      "heroSubheading": "Tải xuống video, reels và stories của Facebook ở định dạng chất lượng cao với trình tải xuống video Facebook trực tuyến miễn phí của chúng tôi.",
+      "mainDescription": "Trình Tải Xuống Video Facebook - Không Có Hình Mờ\nBạn đã bao giờ tìm thấy video Facebook mà bạn muốn lưu, nhưng không có nút tải xuống? Có thể đó là một hướng dẫn hữu ích, một reel mà bạn thích, hoặc nội dung phương tiện xã hội quan trọng mà bạn không muốn mất. Phát lại nó nhiều lần lãng phí thời gian, và đôi khi video biến mất khỏi các bài đăng hoặc stories.\nMột trình tải xuống video Facebook tải xuống video không có hình mờ giải quyết vấn đề đó. Đó là một giải pháp trực tuyến đơn giản cho phép bạn sao chép liên kết video từ thanh địa chỉ, dán URL vào trường nhập liệu, chọn định dạng như MP4, MP3, AAC hoặc 3GP, và tải xuống tệp ở HD hoặc 4K hoàn toàn sạch sẽ và không có hình mờ.\nTrong vòng vài giây, video được lưu trực tiếp vào thiết bị của bạn để xem ngoại tuyến. Không cần phần mềm bổ sung, không có bước phức tạp, chỉ là quá trình tải xuống nhanh, an toàn và không có hình mờ.",
+      "howToDownload": "Cách Tải Xuống Video Facebook",
+      "howToText": "Tải xuống video Facebook trực tuyến rất đơn giản và chỉ mất vài giây. Làm theo quy trình dễ dàng này:",
+      "step1": "Bước 1: Sao Chép Liên Kết Video Facebook",
+      "step1Desc": "Mở Facebook và tìm video bạn muốn tải xuống. Sao chép URL video từ thanh địa chỉ hoặc nhấn ba dấu chấm trên bài viết và chọn 'Sao chép liên kết'.",
+      "step2": "Bước 2: Dán URL vào Trường Nhập Liệu",
+      "step2Desc": "Đi đến công cụ tải xuống video Facebook và dán liên kết vào trường nhập liệu. Công cụ sẽ tự động phát hiện tệp video.",
+      "step3": "Bước 3: Chọn Định Dạng & Chất Lượng",
+      "step3Desc": "Chọn định dạng ưa thích của bạn MP4 cho video, MP3 hoặc AAC cho âm thanh, hoặc 3GP cho các tệp nhỏ hơn. Sau đó chọn tùy chọn chất lượng như HD, 1080p hoặc 4K.",
+      "step4": "Bước 4: Nhấp Vào Tải Xuống",
+      "step4Desc": "Nhấp vào nút tải xuống và lưu tệp trực tiếp vào thiết bị của bạn. Video của bạn bây giờ sẵn sàng để xem ngoại tuyến bất kỳ lúc nào.",
+      "downloadAllTypes": "Tải Xuống Tất Cả Loại Phương Tiện Facebook",
+      "downloadAllTypesText": "Trình tải xuống video Facebook của chúng tôi được xây dựng để xử lý nhiều hơn các video tiêu chuẩn. Bạn có thể tải xuống các loại phương tiện Facebook khác nhau một cách nhanh chóng và ở chất lượng cao.",
+      "reelsDownloader": "Trình Tải Xuống Reels Facebook",
+      "reelsDesc": "Tìm thấy một reel mà bạn muốn giữ? Tải xuống reels Facebook ở HD hoặc 4K và lưu chúng trực tiếp vào thiết bị của bạn. Chỉ cần sao chép liên kết reel, dán URL vào công cụ, chọn định dạng của bạn và tải xuống mà không có hình mờ.",
+      "storiesDownloader": "Tải Xuống Stories Facebook",
+      "storiesDesc": "Stories biến mất sau 24 giờ. Nếu bạn muốn lưu một story Facebook trước khi nó hết hạn, hãy sao chép liên kết video và sử dụng trình tải xuống để lưu tệp để xem ngoại tuyến.",
+      "postsDownloader": "Tải Xuống Video Từ Bài Viết Facebook",
+      "postsDesc": "Nhiều bài viết Facebook bao gồm các video hữu ích hoặc giải trí. Sao chép URL video từ bài viết, dán vào trường nhập liệu, chọn định dạng của bạn (MP4, MP3 hoặc hơn) và tải xuống trong vài giây.",
+      "privateDownloader": "Video Riêng Tư Facebook",
+      "privateDesc": "Một số video được chia sẻ riêng tư trong các nhóm hoặc khán giả hạn chế. Khi được phép, bạn có thể tải xuống các video riêng tư của Facebook bằng cách sử dụng liên kết video chính xác thông qua công cụ an toàn của chúng tôi.",
+      "formatQuality": "Tải Xuống Video Facebook Ở Bất Kỳ Định Dạng & Chất Lượng",
+      "formatQualityText": "Không phải ai cũng cần cùng một định dạng hoặc độ phân giải. Đó là lý do tại sao trình tải xuống video Facebook của chúng tôi cung cấp cho bạn các tùy chọn linh hoạt cho cả tải xuống video và âm thanh.",
+      "videoFormats": "Định Dạng Video",
+      "mp4Format": "MP4 – Định dạng phổ biến nhất cho phát lại chất lượng cao. Hoạt động trơn tru trên hầu hết các thiết bị và trình phát phương tiện.",
+      "format3gp": "3GP – Một định dạng nhẹ hơn và nhỏ gọn lý tưởng cho các thiết bị di động cũ hoặc tiết kiệm không gian lưu trữ.",
+      "audioFormats": "Định Dạng Âm Thanh",
+      "mp3Format": "MP3 – Hoàn hảo nếu bạn chỉ cần âm thanh từ video Facebook, chẳng hạn như âm nhạc, phỏng vấn hoặc podcast.",
+      "aacFormat": "AAC – Cung cấp âm thanh rõ ràng với nén hiệu quả và kích thước tệp nhỏ hơn.",
+      "resolutionOptions": "Tùy Chọn Độ Phân Giải",
+      "resolutionOptionsText": "Chọn chất lượng phù hợp với nhu cầu của bạn: HD cho phát lại rõ ràng, 1080p cho video độ phân giải cao đầy đủ, 4K cho chi tiết cực kỳ sắc nét và chất lượng tối đa",
+      "keyFeatures": "Các Tính Năng Chính Của Trình Tải Xuống Video Facebook Của Chúng Tôi",
+      "keyFeaturesText": "Trình tải xuống video Facebook của chúng tôi được xây dựng để đơn giản, nhanh chóng và đáng tin cậy. Mọi thứ đều được thiết kế xung quanh tính dễ sử dụng và tải xuống chất lượng cao.",
+      "userFriendly": "Giao Diện Thân Thiện Với Người Dùng",
+      "userFriendlyDesc": "Công cụ có giao diện sạch sẽ và đơn giản. Chỉ cần dán URL video, chọn định dạng của bạn và nhấp vào tải xuống. Không có sự nhầm lẫn. Không có bước bổ sung.",
+      "webBased": "Ứng Dụng Dựa Trên Web – Không Yêu Cầu Cài Đặt",
+      "webBasedDesc": "Đây là một ứng dụng hoàn toàn dựa trên web, vì vậy bạn không cần phải cài đặt bất kỳ phần mềm nào. Nó hoạt động trực tiếp trong trình duyệt của bạn, cho dù bạn đang ở trên máy tính để bàn hay di động.",
+      "aiQuality": "Tối Ưu Hóa Chất Lượng Được Cải Thiện Bằng AI",
+      "aiQualityDesc": "Hệ thống của chúng tôi sử dụng phát hiện thông minh dựa trên AI để xác định chất lượng video tốt nhất có sẵn. Nó giúp đảm bảo bạn nhận được tải xuống rõ ràng ở HD, 1080p hoặc 4K bất cứ khi nào có sẵn.",
+      "videoPreview": "Xem Trước Trình Phát Video Tích Hợp",
+      "videoPreviewDesc": "Trước khi tải xuống, bạn có thể xem trước video Facebook bằng trình phát tích hợp. Điều này giúp xác nhận rằng bạn đã chọn tệp chính xác.",
+      "crossPlatform": "Hỗ Trợ Đa Nền Tảng",
+      "crossPlatformDesc": "Trình tải xuống hoạt động trơn tru trên các thiết bị Android, iOS và máy tính để bàn. Nó hỗ trợ các trình duyệt hiện đại và cung cấp trải nghiệm nhất quán trên các nền tảng.",
+      "noWatermarks": "Không Có Hình Mờ",
+      "noWatermarksDesc": "Tệp video được tải xuống của bạn vẫn sạch sẽ. Không có hình mờ hoặc branding được thêm vào.",
+      "fastSecure": "Quá Trình Tải Xuống Nhanh & An Toàn",
+      "fastSecureDesc": "Toàn bộ quy trình là an toàn và riêng tư. Các liên kết được xử lý tức thì và các tệp được gửi nhanh chóng đến thiết bị của bạn mà không có sự chậm trễ không cần thiết. Chúng được xử lý tạm thời và xóa sau khi tải xuống để bảo vệ quyền riêng tư của người dùng.",
+      "allDevices": "Hoạt Động Trên Tất Cả Các Thiết Bị & Trình Duyệt",
+      "allDevicesDesc": "Trình tải xuống video Facebook của chúng tôi hoàn toàn dựa trên web, vì vậy nó hoạt động trơn tru trên tất cả các thiết bị và trình duyệt mà không cần cài đặt bất kỳ phần mềm bổ sung nào.",
+      "android": "Điện Thoại Thông Minh Android",
+      "androidDesc": "Tải xuống video Facebook trực tiếp vào thiết bị Android của bạn bằng trình duyệt ưa thích của bạn. Chỉ cần dán URL video và lưu tệp ngay lập tức.",
+      "iphone": "iPhone (iOS)",
+      "iphoneDesc": "Sử dụng công cụ trên iPhone hoặc iPad của bạn thông qua Safari hoặc các trình duyệt được hỗ trợ khác. Chọn định dạng của bạn và tải xuống để xem ngoại tuyến.",
+      "desktop": "Máy Tính Để Bàn (Windows & Mac)",
+      "desktopDesc": "Cho dù bạn đang ở Windows hay Mac, bạn có thể tải xuống video Facebook ở HD hoặc 4K trực tiếp vào máy tính của mình ở định dạng MP4, MP3 hoặc các định dạng khác.",
+      "chrome": "Trình Duyệt Web Chrome",
+      "chromeDesc": "Công cụ chạy liền mạch trong Chrome, cung cấp một quá trình tải xuống nhanh và mượt mà.",
+      "safari": "Safari",
+      "safariDesc": "Hoàn toàn tương thích với Safari để tải xuống an toàn và đơn giản trên cả thiết bị di động và máy tính để bàn.",
+      "googleDrive": "Bạn cũng có thể lưu các tệp đã tải xuống vào Google Drive nếu bạn thích lưu trữ đám mây để dễ dàng truy cập trên các thiết bị.",
+      "whyChooseUs": "Tại Sao Chọn Chúng Tôi?",
+      "whyChooseUsText": "Có nhiều công cụ trực tuyến, nhưng không phải tất cả đều đơn giản, an toàn và đáng tin cậy. Đây là lý do tại sao người dùng thích trình tải xuống video Facebook của chúng tôi:",
+      "freeTool": "Công Cụ Trực Tuyến Miễn Phí",
+      "freeToolDesc": "Bạn có thể tải xuống video, reels và stories Facebook mà không cần thanh toán. Đó là một công cụ hoàn toàn miễn phí không cần thiết lập phức tạp.",
+      "noSoftware": "Không Yêu Cầu Phần Mềm Bổ Sung",
+      "noSoftwareDesc": "Mọi thứ hoạt động trong trình duyệt của bạn. Không có ứng dụng, không có tiện ích mở rộng và không có phần mềm bổ sung để cài đặt.",
+      "highSpeed": "Tải Xuống Tốc Độ Cao",
+      "highSpeedDesc": "Khi bạn dán URL video và chọn định dạng của mình, quá trình tải xuống bắt đầu ngay lập tức. Nhanh, mượt mà và không có rắc rối.",
+      "securePrivate": "An Toàn & Riêng Tư",
+      "securePrivateDesc": "Các liên kết của bạn được xử lý an toàn. Chúng tôi không lưu trữ các tệp video hoặc dữ liệu cá nhân của bạn. Toàn bộ quy trình vẫn riêng tư.",
+      "noPricing": "Không Có Kế Hoạch Định Giá Ẩn",
+      "noPricingDesc": "Không có giá bất ngờ, tính năng bị khóa hoặc nâng cấp kế hoạch ẩn. Những gì bạn thấy là những gì bạn nhận được.",
+      "contentCreators": "Được Tối Ưu Hóa Cho Những Người Tạo Nội Dung Phương Tiện Xã Hội",
+      "contentCreatorsDesc": "Cho dù bạn là một người tạo nội dung, quản lý phương tiện xã hội, hay chỉ là lưu video yêu thích, công cụ này được thiết kế để làm cho tải xuống nhanh chóng và dễ dàng.",
+      "faq1": "Tôi có thể tải xuống video Facebook ở 4K hoặc HD không?",
+      "faq1Answer": "Có, nếu video Facebook gốc hỗ trợ nó, bạn có thể chọn 4K, 1080p hoặc HD trước khi nhấp vào tải xuống. Chất lượng có sẵn phụ thuộc vào video nguồn.",
+      "faq2": "Tôi có thể chuyển đổi video Facebook thành MP3 không?",
+      "faq2Answer": "Có. Chọn định dạng MP3 để trích xuất âm thanh từ video Facebook. Công cụ sẽ chuyển đổi tệp phương tiện và cho phép bạn tải xuống MP3 trực tiếp vào thiết bị của bạn.",
+      "faq3": "Nó có hoạt động cho reels và stories Facebook không?",
+      "faq3Answer": "Có. Bạn có thể tải xuống reels, stories và bài viết thông thường của Facebook bằng cách sử dụng cùng một quy trình. Chỉ cần sao chép URL video, dán vào trường nhập liệu và chọn định dạng của bạn.",
+      "faq4": "Tôi có thể tải xuống video riêng tư của Facebook không?",
+      "faq4Answer": "Bạn có thể tải xuống các video riêng tư của Facebook chỉ khi bạn có quyền xem chúng. Video phải có thể truy cập được cho tài khoản của bạn để liên kết hoạt động.",
+      "faq5": "Trình tải xuống có thêm hình mờ không?",
+      "faq5Answer": "Không. Công cụ không thêm hình mờ vào tệp đã tải xuống của bạn. Bạn nhận được video ở định dạng và chất lượng gốc của nó.",
+      "faq6": "Có an toàn khi sử dụng trên thiết bị di động không?",
+      "faq6Answer": "Có. Đây là một công cụ an toàn dựa trên web hoạt động trên các thiết bị di động Android và iOS thông qua trình duyệt của bạn. Không cần cài đặt ứng dụng hoặc phần mềm bổ sung.",
+      "disclaimer": "Tuyên Bố Miễn Trừ Trách Nhiệm",
+      "disclaimerText": "Chúng tôi không lưu trữ hoặc lưu giữ bất kỳ video nào trên máy chủ của chúng tôi. Tất cả các tệp phương tiện được lưu trữ trên CDN của Facebook và vẫn là tài sản của chủ sở hữu tương ứng của họ.\nTrang web này là một công cụ phương tiện xã hội độc lập và không liên kết với Facebook™ hoặc Meta Platforms, Inc. 'Facebook' là một nhãn hiệu của Meta, được sử dụng chỉ cho mục đích xác định.\nNguời dùng chịu trách nhiệm đảm bảo rằng họ có quyền tải xuống và sử dụng bất kỳ nội dung nào phù hợp với các luật hiện hành và Điều khoản Dịch vụ của Facebook."
+    }
+  },
+  "ar": {
+    "nav": {
+      "home": "الصفحة الرئيسية (HD و 4K)",
+      "mp3Converter": "محول MP3",
+      "reels": "الريلز",
+      "stories": "القصص",
+      "privateVideos": "مقاطع فيديو خاصة",
+      "postBlogs": "المنشورات / المدونات",
+      "guide": "الدليل (لقطات الشاشة)",
+      "privacyPolicy": "سياسة الخصوصية",
+      "termsConditions": "الشروط والأحكام",
+      "dmca": "DMCA",
+      "contactUs": "اتصل بنا",
+      "blog": "مدونة"
+    },
+    "home": {
+      "title": "منزل تحميل فيديو Facebook مجاني",
+      "heroHeading": "منزل تحميل فيديو Facebook مجاني",
+      "heroSubheading": "قم بتنزيل مقاطع فيديو وريلز وقصص Facebook بصيغة عالية الجودة باستخدام منزل تحميل فيديو Facebook المجاني عبر الإنترنت.",
+      "mainDescription": "منزل تحميل فيديو Facebook - بدون علامة مائية\nهل سبق لك أن وجدت مقطع فيديو على Facebook تريد حفظه، لكن لم تكن هناك زر تنزيل؟ ربما كان درسًا مفيدًا أو ريل أحببته أو محتوى وسائط اجتماعية مهم لم تكن تريد أن تفقده. يؤدي بثه مرارًا وتكرارًا إلى إهدار الوقت، وفي بعض الأحيان يختفي الفيديو من المنشورات أو القصص.\nيحل منزل تحميل فيديو Facebook الذي يقوم بتنزيل الفيديو بدون علامة مائية هذه المشكلة. إنه حل بسيط عبر الإنترنت يسمح لك بنسخ رابط الفيديو من شريط العنوان، ولصق عنوان URL في حقل الإدخال، واختيار صيغة مثل MP4 أو MP3 أو AAC أو 3GP، وتنزيل الملف بتنسيق HD أو 4K نظيف تمامًا وبدون علامات مائية.\nفي غضون ثوانٍ، يتم حفظ الفيديو مباشرة على جهازك لمشاهدته بدون اتصال. لا توجد برامج إضافية، لا توجد خطوات معقدة، فقط عملية تنزيل سريعة وآمنة وخالية من العلامات المائية."
+    }
+  },
+  "cs": {
+    "nav": {
+      "home": "Domů (HD a 4K)",
+      "mp3Converter": "Konvertor MP3",
+      "reels": "Bobiny",
+      "stories": "Příběhy",
+      "privateVideos": "Soukromá videa",
+      "postBlogs": "PŘÍSPĚVKY / Blogy",
+      "guide": "Průvodce (Snímky obrazovky)",
+      "privacyPolicy": "Zásady ochrany osobních údajů",
+      "termsConditions": "Podmínky a předpoklady",
+      "dmca": "DMCA",
+      "contactUs": "Kontaktujte nás",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Bezplatný stahování videa Facebook"
+    }
+  },
+  "de": {
+    "nav": {
+      "home": "Startseite (HD & 4K)",
+      "mp3Converter": "MP3-Konverter",
+      "reels": "Reels",
+      "stories": "Geschichten",
+      "privateVideos": "Private Videos",
+      "postBlogs": "BEITRÄGE / Blogs",
+      "guide": "Anleitung (Screenshots)",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsConditions": "Allgemeine Geschäftsbedingungen",
+      "dmca": "DMCA",
+      "contactUs": "Kontaktieren Sie uns",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Kostenloser Facebook-Video-Downloader"
+    }
+  },
+  "fr": {
+    "nav": {
+      "home": "Accueil (HD & 4K)",
+      "mp3Converter": "Convertisseur MP3",
+      "reels": "Reels",
+      "stories": "Histoires",
+      "privateVideos": "Vidéos privées",
+      "postBlogs": "PUBLICATIONS / Blogs",
+      "guide": "Guide (Captures d'écran)",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsConditions": "Termes et conditions",
+      "dmca": "DMCA",
+      "contactUs": "Nous contacter",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Téléchargeur vidéo Facebook gratuit"
+    }
+  },
+  "hi": {
+    "nav": {
+      "home": "होम (HD और 4K)",
+      "mp3Converter": "MP3 कनवर्टर",
+      "reels": "रील्स",
+      "stories": "कहानियां",
+      "privateVideos": "निजी वीडियो",
+      "postBlogs": "पोस्ट / ब्लॉग",
+      "guide": "गाइड (स्क्रीनशॉट)",
+      "privacyPolicy": "गोपनीयता नीति",
+      "termsConditions": "शर्तें और शर्त",
+      "dmca": "DMCA",
+      "contactUs": "हमसे संपर्क करें",
+      "blog": "ब्लॉग"
+    },
+    "home": {
+      "title": "फ्री फेसबुक वीडियो डाउनलोडर"
+    }
+  },
+  "id": {
+    "nav": {
+      "home": "Beranda (HD & 4K)",
+      "mp3Converter": "Konverter MP3",
+      "reels": "Reels",
+      "stories": "Cerita",
+      "privateVideos": "Video Pribadi",
+      "postBlogs": "POSTING / Blog",
+      "guide": "Panduan (Tangkapan Layar)",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsConditions": "Syarat dan ketentuan",
+      "dmca": "DMCA",
+      "contactUs": "Hubungi Kami",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Pengunduh Video Facebook Gratis"
+    }
+  },
+  "it": {
+    "nav": {
+      "home": "Home (HD e 4K)",
+      "mp3Converter": "Convertitore MP3",
+      "reels": "Reels",
+      "stories": "Storie",
+      "privateVideos": "Video privati",
+      "postBlogs": "POST / Blog",
+      "guide": "Guida (Screenshot)",
+      "privacyPolicy": "Politica sulla privacy",
+      "termsConditions": "Termini e condizioni",
+      "dmca": "DMCA",
+      "contactUs": "Contattaci",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Downloader video Facebook gratuito"
+    }
+  },
+  "ja": {
+    "nav": {
+      "home": "ホーム (HD & 4K)",
+      "mp3Converter": "MP3コンバーター",
+      "reels": "リール",
+      "stories": "ストーリー",
+      "privateVideos": "プライベートビデオ",
+      "postBlogs": "投稿/ブログ",
+      "guide": "ガイド (スクリーンショット)",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsConditions": "利用規約",
+      "dmca": "DMCA",
+      "contactUs": "お問い合わせ",
+      "blog": "ブログ"
+    },
+    "home": {
+      "title": "無料フェイスブックビデオダウンローダー"
+    }
+  },
+  "ko": {
+    "nav": {
+      "home": "홈 (HD & 4K)",
+      "mp3Converter": "MP3 변환기",
+      "reels": "릴",
+      "stories": "스토리",
+      "privateVideos": "개인 동영상",
+      "postBlogs": "게시물 / 블로그",
+      "guide": "가이드 (스크린샷)",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsConditions": "이용 약관",
+      "dmca": "DMCA",
+      "contactUs": "문의하기",
+      "blog": "블로그"
+    },
+    "home": {
+      "title": "무료 페이스북 비디오 다운로더"
+    }
+  },
+  "pl": {
+    "nav": {
+      "home": "Strona główna (HD i 4K)",
+      "mp3Converter": "Konwerter MP3",
+      "reels": "Reels",
+      "stories": "Historie",
+      "privateVideos": "Prywatne filmy",
+      "postBlogs": "POSTY / Blogi",
+      "guide": "Poradnik (Zrzuty ekranu)",
+      "privacyPolicy": "Polityka prywatności",
+      "termsConditions": "Warunki i postanowienia",
+      "dmca": "DMCA",
+      "contactUs": "Skontaktuj się z nami",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Darmowy program do pobierania filmów z Facebooka"
+    }
+  },
+  "pt": {
+    "nav": {
+      "home": "Início (HD e 4K)",
+      "mp3Converter": "Conversor de MP3",
+      "reels": "Reels",
+      "stories": "Histórias",
+      "privateVideos": "Vídeos privados",
+      "postBlogs": "POSTAGENS / Blogs",
+      "guide": "Guia (Capturas de tela)",
+      "privacyPolicy": "Política de Privacidade",
+      "termsConditions": "Termos e Condições",
+      "dmca": "DMCA",
+      "contactUs": "Entre em contato",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Downloader de vídeo do Facebook gratuito"
+    }
+  },
+  "ro": {
+    "nav": {
+      "home": "Acasă (HD și 4K)",
+      "mp3Converter": "Convertor MP3",
+      "reels": "Reel-uri",
+      "stories": "Povești",
+      "privateVideos": "Videoclipuri private",
+      "postBlogs": "POSTĂRI / Bloguri",
+      "guide": "Ghid (Capturi de ecran)",
+      "privacyPolicy": "Politica de confidențialitate",
+      "termsConditions": "Termeni și condiții",
+      "dmca": "DMCA",
+      "contactUs": "Contactează-ne",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Descarcator gratuit de videoclipuri Facebook"
+    }
+  },
+  "ru": {
+    "nav": {
+      "home": "Главная (HD и 4K)",
+      "mp3Converter": "Конвертер MP3",
+      "reels": "Reels",
+      "stories": "Истории",
+      "privateVideos": "Приватные видео",
+      "postBlogs": "ПОСТЫ / Блоги",
+      "guide": "Руководство (Скриншоты)",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsConditions": "Условия использования",
+      "dmca": "DMCA",
+      "contactUs": "Свяжитесь с нами",
+      "blog": "Блог"
+    },
+    "home": {
+      "title": "Бесплатный загрузчик видео Facebook"
+    }
+  },
+  "th": {
+    "nav": {
+      "home": "หน้าแรก (HD และ 4K)",
+      "mp3Converter": "ตัวแปลง MP3",
+      "reels": "รีล",
+      "stories": "เรื่องราว",
+      "privateVideos": "วิดีโอส่วนตัว",
+      "postBlogs": "โพสต์ / บล็อก",
+      "guide": "คู่มือ (ภาพหน้าจอ)",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsConditions": "ข้อกำหนดและเงื่อนไข",
+      "dmca": "DMCA",
+      "contactUs": "ติดต่อเรา",
+      "blog": "บล็อก"
+    },
+    "home": {
+      "title": "ตัวดาวน์โหลดวิดีโอ Facebook ฟรี"
+    }
+  },
+  "tr": {
+    "nav": {
+      "home": "Ana Sayfa (HD ve 4K)",
+      "mp3Converter": "MP3 Dönüştürücü",
+      "reels": "Reels",
+      "stories": "Hikayeler",
+      "privateVideos": "Özel Videolar",
+      "postBlogs": "GÖNDERILER / Bloglar",
+      "guide": "Kılavuz (Ekran Görüntüleri)",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsConditions": "Şartlar ve Koşullar",
+      "dmca": "DMCA",
+      "contactUs": "Bizimle İletişime Geçin",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Ücretsiz Facebook Video İndirici"
+    }
+  },
+  "uk": {
+    "nav": {
+      "home": "Головна (HD та 4K)",
+      "mp3Converter": "Конвертер MP3",
+      "reels": "Reels",
+      "stories": "Історії",
+      "privateVideos": "Приватні відео",
+      "postBlogs": "ДОПИСИ / Блоги",
+      "guide": "Посібник (Знімки екрана)",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsConditions": "Умови та положення",
+      "dmca": "DMCA",
+      "contactUs": "Зв'яжіться з нами",
+      "blog": "Блог"
+    },
+    "home": {
+      "title": "Безплатний завантажувач відео Facebook"
+    }
+  },
+  "zh": {
+    "nav": {
+      "home": "主页 (HD 和 4K)",
+      "mp3Converter": "MP3转换器",
+      "reels": "短视频",
+      "stories": "故事",
+      "privateVideos": "私人视频",
+      "postBlogs": "帖子 / 博客",
+      "guide": "指南 (截图)",
+      "privacyPolicy": "隐私政策",
+      "termsConditions": "条款和条件",
+      "dmca": "DMCA",
+      "contactUs": "联系我们",
+      "blog": "博客"
+    },
+    "home": {
+      "title": "免费Facebook视频下载器"
+    }
+  },
+  "zh-TW": {
+    "nav": {
+      "home": "首頁 (HD 和 4K)",
+      "mp3Converter": "MP3轉換器",
+      "reels": "短視頻",
+      "stories": "故事",
+      "privateVideos": "私人視頻",
+      "postBlogs": "貼文 / 部落格",
+      "guide": "指南 (螢幕截圖)",
+      "privacyPolicy": "隱私政策",
+      "termsConditions": "條款和條件",
+      "dmca": "DMCA",
+      "contactUs": "聯絡我們",
+      "blog": "部落格"
+    },
+    "home": {
+      "title": "免費Facebook視頻下載器"
+    }
+  },
+  "ms": {
+    "nav": {
+      "home": "Laman Utama (HD & 4K)",
+      "mp3Converter": "Penukar MP3",
+      "reels": "Reels",
+      "stories": "Cerita",
+      "privateVideos": "Video Peribadi",
+      "postBlogs": "SIARAN / Blog",
+      "guide": "Panduan (Tangkapan Skrin)",
+      "privacyPolicy": "Dasar Privasi",
+      "termsConditions": "Terma dan Syarat",
+      "dmca": "DMCA",
+      "contactUs": "Hubungi Kami",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Pemuat Video Facebook Percuma"
+    }
+  },
+  "hu": {
+    "nav": {
+      "home": "Kezdőlap (HD és 4K)",
+      "mp3Converter": "MP3 konverter",
+      "reels": "Tekercs",
+      "stories": "Történetek",
+      "privateVideos": "Privát videók",
+      "postBlogs": "BEJEGYZÉSEK / Blogok",
+      "guide": "Útmutató (Képernyőfotók)",
+      "privacyPolicy": "Adatvédelmi irányelvek",
+      "termsConditions": "Feltételek és kikötések",
+      "dmca": "DMCA",
+      "contactUs": "Lépjen velünk kapcsolatba",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Ingyenes Facebook videó letöltő"
+    }
+  },
+  "nl": {
+    "nav": {
+      "home": "Home (HD en 4K)",
+      "mp3Converter": "MP3-converter",
+      "reels": "Reels",
+      "stories": "Verhalen",
+      "privateVideos": "Privévideo's",
+      "postBlogs": "BERICHTEN / Blogs",
+      "guide": "Gids (Schermafbeeldingen)",
+      "privacyPolicy": "Privacybeleid",
+      "termsConditions": "Voorwaarden",
+      "dmca": "DMCA",
+      "contactUs": "Neem contact met ons op",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Gratis Facebook Video Downloader"
+    }
+  },
+  "el": {
+    "nav": {
+      "home": "Αρχική σελίδα (HD & 4K)",
+      "mp3Converter": "Μετατροπέας MP3",
+      "reels": "Καρούλια",
+      "stories": "Ιστορίες",
+      "privateVideos": "Ιδιωτικά βίντεο",
+      "postBlogs": "ΑΝΑΡΤΗΣΕΙΣ / Ιστολόγια",
+      "guide": "Οδηγός (Στιγμιότυπα οθόνης)",
+      "privacyPolicy": "Πολιτική Ιδιωτικότητας",
+      "termsConditions": "Όροι και Προϋποθέσεις",
+      "dmca": "DMCA",
+      "contactUs": "Επικοινωνήστε μαζί μας",
+      "blog": "Ιστολόγιο"
+    },
+    "home": {
+      "title": "Δωρεάν Facebook Video Downloader"
+    }
+  },
+  "he": {
+    "nav": {
+      "home": "בית (HD & 4K)",
+      "mp3Converter": "ממיר MP3",
+      "reels": "סלילים",
+      "stories": "סיפורים",
+      "privateVideos": "סרטונים פרטיים",
+      "postBlogs": "הודעות / בלוגים",
+      "guide": "מדריך (צילומי מסך)",
+      "privacyPolicy": "מדיניות הפרטיות",
+      "termsConditions": "תנאים והוראות",
+      "dmca": "DMCA",
+      "contactUs": "צור קשר",
+      "blog": "בלוג"
+    },
+    "home": {
+      "title": "מורד וידאו פייסבוק חינם"
+    }
+  },
+  "fa": {
+    "nav": {
+      "home": "صفحه اول (HD و 4K)",
+      "mp3Converter": "مبدل MP3",
+      "reels": "ویدیوهای کوتاه",
+      "stories": "داستان ها",
+      "privateVideos": "ویدیوهای خصوصی",
+      "postBlogs": "پست ها / وبلاگ ها",
+      "guide": "راهنما (عکس های صفحه)",
+      "privacyPolicy": "سیاست حریم خصوصی",
+      "termsConditions": "شرایط و ضوابط",
+      "dmca": "DMCA",
+      "contactUs": "تماس با ما",
+      "blog": "وبلاگ"
+    },
+    "home": {
+      "title": "دانلودکننده ویدیو فیس بوک رایگان"
+    }
+  },
+  "nb": {
+    "nav": {
+      "home": "Hjem (HD og 4K)",
+      "mp3Converter": "MP3-omformer",
+      "reels": "Reels",
+      "stories": "Historier",
+      "privateVideos": "Private videoer",
+      "postBlogs": "INNLEGG / Blogger",
+      "guide": "Veiledning (Skjermbilder)",
+      "privacyPolicy": "Personvernpolicy",
+      "termsConditions": "Vilkår og betingelser",
+      "dmca": "DMCA",
+      "contactUs": "Kontakt oss",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Gratis Facebook-videolaster"
+    }
+  },
+  "sv": {
+    "nav": {
+      "home": "Hem (HD och 4K)",
+      "mp3Converter": "MP3-omvandlare",
+      "reels": "Reels",
+      "stories": "Berättelser",
+      "privateVideos": "Privata videor",
+      "postBlogs": "INLÄGG / Bloggar",
+      "guide": "Guide (Skärmbilder)",
+      "privacyPolicy": "Integritetspolicy",
+      "termsConditions": "Villkor och bestämmelser",
+      "dmca": "DMCA",
+      "contactUs": "Kontakta oss",
+      "blog": "Blog"
+    },
+    "home": {
+      "title": "Gratis Facebook-videoladdare"
+    }
+  },
+  "fi": {
+    "nav": {
+      "home": "Koti (HD ja 4K)",
+      "mp3Converter": "MP3-muunnin",
+      "reels": "Kelat",
+      "stories": "Tarinat",
+      "privateVideos": "Yksityiset videot",
+      "postBlogs": "VIESTIT / Blogit",
+      "guide": "Opas (Näyttökuvat)",
+      "privacyPolicy": "Tietosuojakäytäntö",
+      "termsConditions": "Käyttöehdot",
+      "dmca": "DMCA",
+      "contactUs": "Ota yhteyttä",
+      "blog": "Blogi"
+    },
+    "home": {
+      "title": "Ilmainen Facebook-videoiden lataaja"
+    }
+  }
+}
