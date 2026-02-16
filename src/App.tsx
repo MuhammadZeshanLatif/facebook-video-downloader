@@ -11,6 +11,7 @@ import About from './pages/About';
 import Blog from './pages/Blog';
 import Contact from './pages/Contact';
 import FAQ from './pages/FAQ';
+import NotFound from './pages/NotFound';
 
 function AppContent() {
   useTranslation();
@@ -29,10 +30,11 @@ function AppContent() {
         <Route path="blog" element={<Blog />} />
         <Route path="contact" element={<Contact />} />
         <Route path="faq" element={<FAQ />} />
+        <Route path="*" element={<NotFound />} />
       </Route>
 
       {/* Fallback route */}
-      <Route path="*" element={<Navigate to="/en/" replace />} />
+      <Route path="*" element={<NotFound />} />
     </Routes>
   );
 }

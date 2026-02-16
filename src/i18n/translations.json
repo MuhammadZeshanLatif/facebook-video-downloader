@@ -1,7 +1,7 @@
 {
   "en": {
     "nav": {
-      "home": "Homepage (HD & 4K)",
+      "home": "Home",
       "mp3Converter": "MP3 Converter",
       "reels": "Reels",
       "stories": "Stories",
@@ -14,7 +14,7 @@
       "contactUs": "Contact us",
       "blog": "Blog",
       "privateDownloader": "Private Downloader",
-      "howToDownload": "How to Download",
+      "howToDownload": "Guide",
       "about": "About",
       "faq": "FAQ",
       "contact": "Contact",
