@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \":*)",
+      "Bash(\"e:/Projects/facebook-video-downloader-ra/.env.local\")"
+    ]
+  }
+}
